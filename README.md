@@ -23,9 +23,10 @@
 <p align="center">
     <strong>2. SESSION ID & DEPLOYMENTS</strong>
     <br>
-    <a href="https://www.cypherx.space/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-    </a>
+    <p align="center">
+  <a href="https://heroku.com/deploy?template=https://github.com/Dark-Xploit/CypherX">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width="200"/>
+  </a>
 </p>
 
 <p align="center">
