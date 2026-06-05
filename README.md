@@ -30,20 +30,20 @@
 </p>
 
 <p align="center">
-  <a href="https://uxpair-08eaa0cdf162.herokuapp.com/" target="_blank">
+  <a href="https://pair.cypherxbot.space/" target="_blank">
     <img src="https://img.shields.io/badge/Server_1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
   </a>
-  <a href="https://paircx1-5aececee9665.herokuapp.com/" target="_blank">
+  <a href="https://pair2.cypherxbot.space/" target="_blank">
     <img src="https://img.shields.io/badge/Server_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
   </a>
-  <a href="https://paircx2-156d078e4c76.herokuapp.com/" target="_blank">
+  <a href="https://pair3.cypherxbot.space/" target="_blank">
     <img src="https://img.shields.io/badge/Server_3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
   </a>
   <a href="https://paircx3-3389649423ac.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_4-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    <img src="https://img.shields.io/badge/Server_Offline-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
   </a>
   <a href="https://paircx4-32adc0478cd2.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_5-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    <img src="https://img.shields.io/badge/Server_Offline-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
   </a>
   <a href="https://paircx2-156d078e4c76.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Server_Ofline-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
