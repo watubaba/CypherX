@@ -1,6 +1,6 @@
 {
   "name": "CypherX",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "The best Whatsapp bot",
   "type": "commonjs",
   "main": "main.js",
@@ -49,6 +49,7 @@
     "node-webpmux": "^3.1.0",
     "pg": "^8.14.1",
     "pino": "^9.6.0",
+    "qrcode": "^1.5.4",
     "sequelize": "^6.37.6",
     "sqlite3": "^5.1.7",
     "systeminformation": "^5.27.7",
