@@ -1,6 +1,6 @@
 {
   "name": "CypherX",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "The best Whatsapp bot",
   "type": "commonjs",
   "main": "main.js",
@@ -13,6 +13,7 @@
     "dev": "nodemon cypher.js",
     "stop": "pkill -f node",
     "restart": "pkill -f node && npm start",
+    "postinstall": "node scripts/patch-yt-search.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "GoodnessTech",
