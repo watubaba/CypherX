@@ -13,16 +13,15 @@
   "scripts": {
     "start": "node index.js"
   },
-"env": {
-  "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
-    "required": false
-  }
-},
   "buildpacks": [
     {
       "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-activestorage-preview"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
 }
