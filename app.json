@@ -13,6 +13,13 @@
   "scripts": {
     "start": "node index.js"
   },
+  "env": {
+    "SESSION_ID": {
+      "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+      "value": "",
+      "required": true
+    }
+  },
   "buildpacks": [
     {
       "url": "heroku/nodejs"
