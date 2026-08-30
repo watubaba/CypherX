@@ -7,7 +7,7 @@
   "stack": "heroku-24",
   "addons": [
     {
-      "plan": "heroku-postgresql"
+      "plan": "heroku-postgresql:mini"
     }
   ],
   "scripts": {
